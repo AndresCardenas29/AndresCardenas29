@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Puedes preguntarme lo que quieras, ayudaré en lo que pueda
 - ⚡️ Soy estudiante de la universidad ECCI
 - 🌎 Soy de Bogotá, Colombia
-- 📫 Puedes contactarme en: mandrescardenash@hotmail.com;
+- 📫 Puedes contactarme en: mandrescardenash@gmail.com;
 - 📱 O puedes escribirme al WhatsApp: (+57)3058849814;
 
 **Lenguajes y herramientas:** 

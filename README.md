@@ -38,7 +38,7 @@ Mis proyectos personales y colaborativos me han ayudado a explorar desde scrapin
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-### 👉 Bacend Development
+### 👉 Backend Development
 
 <p align="left"> 
   &emsp; 

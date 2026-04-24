@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AndresCardenas29/portfolio2025/refs/heads/master/public/Me.jpg?token=GHSAT0AAAAAAD3KXCEYXRKRIGH3WGYSGN7M2PK5SPQ" width="50%" />
+  <img src="[https://raw.githubusercontent.com/AndresCardenas29/portfolio2025/refs/heads/master/public/Me.jpg?token=GHSAT0AAAAAAD3KXCEYXRKRIGH3WGYSGN7M2PK5SPQ](https://github.com/AndresCardenas29/portfolio2025/blob/master/public/Me.jpg?raw=true)" width="50%" />
 
   <p align="center">
     <strong>Fullstack Developer | API Specialist | Infrastructure Enthusiast</strong>

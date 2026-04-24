@@ -1,182 +1,61 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AndresCardenas29/portfolio2025/refs/heads/master/public/Me.jpg?token=GHSAT0AAAAAAD3KXCEYXRKRIGH3WGYSGN7M2PK5SPQ" width="50%" />
 
-<h1 align="center">Hi , I'm Andres Cardenas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<hr/>
-<h4 align="center">Me especializo en construir aplicaciones eficientes y escalables usando Node.js y Next.js, con una sólida experiencia en backend, bases de datos como PostgreSQL y MongoDB, y en integrar APIs REST. Me apasiona crear soluciones completas, desde sistemas de autenticación seguros hasta aplicaciones dinámicas y modulares que permiten un control avanzado de usuarios, permisos y datos.
-
-Mis proyectos personales y colaborativos me han ayudado a explorar desde scraping y sockets hasta optimización y performance en sistemas complejos. Disfruto afrontar nuevos desafíos en tecnologías de vanguardia, y siempre estoy buscando aprender y aplicar mis conocimientos en proyectos que me impulsen a crecer.
-
-👀 ¿En qué estoy trabajando? Sígueme y descubre más aquí en GitHub.</h4>
-<br>
-
-<p align="center"> <img alt="ViewCount" src="https://views.whatilearened.today/views/github/AndresCardenas29/AndresCardenas29.svg" /> </p>
-
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresCardenas29&theme=algolia" alt="AndresCardenas29"/></p>
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  &emsp;
-  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  &emsp;
-  <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  &emsp; 
-  <img alt="Css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  &emsp;
-  <img alt="Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  &emsp;
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  &emsp;
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  &emsp;
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
-
-### 👉 Backend Development
-
-<p align="left"> 
-  &emsp; 
-  <img alt="HTML" src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white">   
-  &emsp; 
-  <img alt="HTML" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">   
-  &emsp; 
-  <img alt="HTML" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">   
-  &emsp;
-  <img alt="CSS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> 
-  &emsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"/>
-  &emsp;
-  <img alt="SAAS" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  &emsp;
-  <img alt="SAAS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  &emsp;
-  <img alt="SAAS" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/>
-  &emsp;
-  <img alt="SAAS" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-</p>
-
-### 👉 Frontend Development
-
-<p align="left"> 
-  &emsp; 
-  <img alt="HTML" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">   
-  &emsp; 
-  <img alt="HTML" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">   
-  &emsp;
-  <img alt="CSS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> 
-  &emsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"/>
-  &emsp;
-  <img alt="SAAS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  &emsp;
-  <img alt="SAAS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  &emsp;
-  <img alt="SAAS" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-</p>
-
-
-### 👉 Databases & Cloud Hosting
-
-<p align="left">
-  &emsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  &emsp;
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  &emsp;
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  &emsp;
-  <img alt="Heroku" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">  
-  &emsp;
-  <img alt="Firebase" src ="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-  &emsp;
-  <img alt="Firebase" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  &emsp;
-  <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-</p>
-
-### 👉 Software & Tools
-
-<p>
-  &emsp;
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  &emsp;
-  <img alt="Adobe" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
-  &emsp;
-  <img alt="Colab" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-  &emsp;
-  <img alt="Codepen" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  &emsp;
-  <img alt="Git" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  &emsp;
-  <img alt="Linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  &emsp;
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  &emsp;
-  <img alt="Jupyter" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  &emsp;
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  &emsp;
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  &emsp;
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  &emsp;
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-  &emsp;
-</p>
-
-<br/>
-
-## 📊 Github Stats (Expand to View)
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
   <p align="center">
-    <a href="https://github.com/AndresCardenas29/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndresCardenas29&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresCardenas29&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AndresCardenas29" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <strong>Fullstack Developer | API Specialist | Infrastructure Enthusiast</strong>
   </p>
-</details>
 
-<details>
-  <summary><b>💻 Recent GitHub Activity</b></summary>
-  <br/>
   <p align="center">
-    <a href="https://github.com/AndresCardenas29/Api-Nodejs-MongoDB">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresCardenas29&repo=Api-Nodejs-MongoDB&theme=algolia" />
-    </a>
-    <a href="https://github.com/AndresCardenas29/chatbot-flask">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AndresCardenas29&repo=chatbot-flask&theme=algolia" />
-    </a>
+    <a href="https://www.linkedin.com/in/mandrescardenash/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://nekdress.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" /></a>
+    <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-</details>
+</div>
 
-<br/>
+---
 
-## 🙋 Let's Connect
+### 🚀 Perfil Profesional
 
-<p align="center">
-  <!-- <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:mandrescardenash@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/AndresCardenas29"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/mandrescardenash"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<!-- <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<!-- <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
-	<!-- <a href="#"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
-	
-</p>
+Ingeniero de Software enfocado en la creación de soluciones integrales, desde el diseño de **APIs robustas en Java** hasta interfaces dinámicas con **Nuxt**. Mi enfoque actual combina el desarrollo de software empresarial con la automatización de despliegues y la gestión de infraestructura.
+
+- 🛠️ **En el día a día:** Desarrollo sistemas de gestión de proyectos, automatizaciones complejas e integración de **Agentes de IA**.
+- 🏗️ **Infraestructura & DevOps:** Experto en despliegues con **Dokploy**, gestión de CI/CD mediante GitHub Actions y administración de entornos tanto en Windows Server como en distribuciones Linux (Ubuntu).
+- 🏠 **Home Lab & Self-Hosting:** Apasionado por la soberanía digital; gestiono mi propio laboratorio con túneles de Cloudflare, proxies inversos (Nginx Proxy Manager) y seguridad de red.
+
+---
+
+### 🛠️ Ecosistema Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,py,mysql,postgres,mongodb&theme=dark" alt="Backend" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nuxt,vue,react,tailwind,html,css&theme=dark" alt="Frontend" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,nginx,ubuntu,windows,linux&theme=dark" alt="Ops" />
+</div>
+
+---
+
+### 🌐 Infraestructura y Laboratorio Personal
+
+Más allá del código, me especializo en la orquestación de servicios y seguridad:
+
+* **Deployment:** Implementación de soluciones con **Dokploy** y Runners personalizados.
+* **Networking:** Configuración de **Cloudflared Tunnels** para acceso remoto seguro y exposición controlada de servicios.
+* **Gestión de Tráfico:** Administración de dominios y certificados SSL mediante **Nginx Proxy Manager**.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresCardenas29&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Andres Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCardenas29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+</div>
+
+---
+
+<div align="center">
+  <p><em>"La automatización no es solo ahorrar tiempo, es garantizar la excelencia."</em></p>
+  <img src="https://komarev.com/ghpvc/?username=AndresCardenas29&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Views" />
+</div>
